@@ -9,7 +9,10 @@
     "test": "echo \"No test specified\" && exit 0"
   },
   "dependencies": {
-    "@quasar/extras": "^1.0.0",
+    "@quasar/extras": "^1.15.7",
+    "@volar-plugins/vetur": "^0.1.0",
+    "@volar/vue-language-plugin-pug": "^1.0.12",
+    "@volar/vue-language-server": "^1.0.12",
     "axios": "^0.21.1",
     "localforage": "^1.10.0",
     "pinia": "^2.0.11",
